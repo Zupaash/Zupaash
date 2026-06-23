@@ -12,7 +12,7 @@ I’m contributing to embedded systems and vehicle electronics as a Firmware Dev
 
 ### 🤖 AI Agents & Automation
 
-I’m currently working on AI agents and CRM automation at DTCForce, including tools that learn communication patterns and generate outbound cadences.
+I’m currently working on AI agents and CRM automation as an intern at DTCForce, including tools that learn communication patterns and generate outbound cadences.
 
 ### 📚 Research
 
