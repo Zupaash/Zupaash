@@ -1,4 +1,8 @@
+<div align="center">
+  
 ## Hi there, my name is Zupaash👋
+
+</div>
 
 I’m a Computer Science student at the University of Toronto interested in autonomous systems, robotics, embedded software, and computer vision.
 
