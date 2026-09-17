@@ -1,10 +1,12 @@
 <div align="center">
   
-## Hi there, my name is Zupaash👋
+## Hey, my name is Zupaash👋
 
 </div>
 
-I’m a Computer Science student at the University of Toronto interested in autonomous systems, robotics, embedded software, and computer vision.
+I’m a Computer Science student at the University of Toronto, and I love to tackle hard problems.
+
+<!--
 
 ### 🚗 Autonomous Perception Evaluation Framework
 
@@ -20,7 +22,9 @@ I’m currently working on AI agents and CRM automation as an intern at DTCForce
 
 ### 📚 Research
 
-Co-author of a literature mapping on computer science students’ self-efficacy, accepted to ITiCSE 2026 in Madrid.
+Co-author of a literature mapping on computer science students’ self-efficacy, accepted to and presented at ITiCSE 2026 in Madrid.
+
+-->
 
 <!--
 **Zupaash/Zupaash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
