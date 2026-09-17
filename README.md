@@ -1,30 +1,6 @@
-<div align="center">
-  
-## Hey, my name is Zupaash👋
-
 </div>
 
-I’m a Computer Science student at the University of Toronto, and I love to tackle hard problems.
-
-<!--
-
-### 🚗 Autonomous Perception Evaluation Framework
-
-I’m building a benchmarking framework to evaluate object detection models under real-time deployment constraints, focusing on latency, FPS, reliability, and hardware tradeoffs.
-
-### 🔧 Firmware Developer
-
-I’m contributing to embedded systems and vehicle electronics as a Firmware Developer on the Human Powered Vehicle Design Team at UofT.
-
-### 🤖 AI Agents & Automation
-
-I’m currently working on AI agents and CRM automation as an intern at DTCForce, including tools that learn communication patterns and generate outbound cadences.
-
-### 📚 Research
-
-Co-author of a literature mapping on computer science students’ self-efficacy, accepted to and presented at ITiCSE 2026 in Madrid.
-
--->
+Hey! My name is Zupaash and I’m a Computer Science student at the University of Toronto. I love to tackle hard problems and enjoy being one with nature ⛺
 
 <!--
 **Zupaash/Zupaash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
