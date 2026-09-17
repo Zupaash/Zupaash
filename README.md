@@ -1,7 +1,10 @@
 </div>
 
-Hey! My name is Zupaash and I’m a Computer Science student at the University of Toronto. I love to tackle hard problems and enjoy being one with nature ⛺
+Hey! My name is Zupaash and I’m a Computer Science student at the University of Toronto. I love to tackle technical and hard problems that challenge me. I also enjoy being one with nature ⛺
 
+📚 I recently presented a literature mapping at ITiCSE 2026 in Madrid, Spain which you can read more about <a href="https://dl.acm.org/doi/10.1145/3803401.3812026">here</a>.
+
+Please check out my projects below!
 <!--
 **Zupaash/Zupaash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
